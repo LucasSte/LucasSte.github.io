@@ -2,27 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lucasste.github.io/misc/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>https://lucasste.github.io/projects/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>https://lucasste.github.io/publications/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>https://lucasste.github.io/reading/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>https://lucasste.github.io/</loc>
-  </url><url>
-    <loc>https://lucasste.github.io/about/</loc>
-  </url><url>
     <loc>https://lucasste.github.io/categories/</loc>
   </url><url>
     <loc>https://lucasste.github.io/contact/</loc>
   </url><url>
     <loc>https://lucasste.github.io/experience/</loc>
+  </url><url>
+    <loc>https://lucasste.github.io/</loc>
+  </url><url>
+    <loc>https://lucasste.github.io/misc/</loc>
+  </url><url>
+    <loc>https://lucasste.github.io/projects/</loc>
+  </url><url>
+    <loc>https://lucasste.github.io/reading/</loc>
+  </url><url>
+    <loc>https://lucasste.github.io/publications/</loc>
   </url><url>
     <loc>https://lucasste.github.io/tags/</loc>
   </url>

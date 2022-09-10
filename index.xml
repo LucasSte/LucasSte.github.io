@@ -1,64 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About on Lucas Steuernagel</title>
+    <title>Lucas Steuernagel</title>
     <link>https://lucasste.github.io/</link>
-    <description>Recent content in About on Lucas Steuernagel</description>
+    <description>Recent content on Lucas Steuernagel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://lucasste.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title></title>
-      <link>https://lucasste.github.io/misc/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lucasste.github.io/misc/</guid>
-      <description>Other interesting stuff I&amp;rsquo;ve done Teaching While at my university robotics group, I taught two classes of machine learning and computer vision. I gave new members an introductory class of Git and wrote a guide to use the C++ STL methods in the group&amp;rsquo;s repository.
-Open-source contributions Openvino Notebooks: I created an example for machine translation using Intel&amp;rsquo;s OpenVino inference framework.
-Solang compiler: I implemented common subexpression elimination, unused variable elimination and undefined variable detection during the Hyplerledger mentorship in 2021.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://lucasste.github.io/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lucasste.github.io/projects/</guid>
-      <description>Projects HTTP1.0 Server Nov. 2020 During the computer networks class at university, I created with friends a basic HTTP1.0 server that can handle html pages and files. The code is on Github.
-LangInterpreter Jun. 2020 During a compilers course at my undergraduate studies, I developed with a friend an interpreter for a programming laguage with Portuguese constructs. The code is available on Gitub.
-iOS/Android Monitor Jun. 2020 During the Operating Systems course, I developed in a group project a system monitor for Android and another one for iOS.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://lucasste.github.io/publications/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lucasste.github.io/publications/</guid>
-      <description>Research/Publications L. Steuernagel, M. R. O. A. Maximo. Trajectory prediction for SSL robots using seq2seq neural networks. Accepted at the 25th RoboCup International Symposium 2022, but pending publication.
-L. Steuernagel, M. R. O. A. Maximo, L. A. Pereira and C. A. A. Sanches, &amp;ldquo;Convolutional Neural Network with Inception-like Module for Ball and Goalpost Detection in a Small Humanoid Soccer Robot,&amp;rdquo; 2020 Latin American Robotics Symposium (LARS), 2020 Brazilian Symposium on Robotics (SBR) and 2020 Workshop on Robotics in Education (WRE), 2020, pp.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://lucasste.github.io/reading/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lucasste.github.io/reading/</guid>
-      <description>Reading Reading is one of my favourite activities. I usually keep up to date with the world by reading Wired UK and The Economist. Regarding books, I have a preference for those who explain the world around me and the latest developments in history.
-Books Each of these books has had an impact in how I understand what happens in society and in the technology world.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://lucasste.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lucasste.github.io/about/</guid>
-      <description>About Me This is a Hugo based resume template. You can find the full source code on GitHub.
-Research Interest Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis1. Mauris id urna ante.
-Fusce pharetra diam ac nisi aliquet, velegestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit2. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.</description>
-    </item>
-    
     <item>
       <title>Contact</title>
       <link>https://lucasste.github.io/contact/</link>
@@ -79,6 +26,48 @@ Social Facebook Twitter Google+ </description>
       <guid>https://lucasste.github.io/experience/</guid>
       <description>Experience Software Engineering Solana Labs February 2022 - Present I&amp;rsquo;ve been working full-time for Solana Labs since February as a compiler engineer. I am improving the Solang compiler and ensuring Solidity is fully compatible with the Solana blockchain.
 Google August 2021 - November 2021 Google has an internal programming language with limited features and aimed at security. My internship project there was coding an autocomplete system for such a language that ran in Google&amp;rsquo;s own IDE.</description>
+    </item>
+    
+    <item>
+      <title>Misc</title>
+      <link>https://lucasste.github.io/misc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lucasste.github.io/misc/</guid>
+      <description>Other interesting stuff I&amp;rsquo;ve done Teaching While at my university robotics group, I taught two classes of machine learning and computer vision. I gave new members an introductory class of Git and wrote a guide to use the C++ STL methods in the group&amp;rsquo;s repository.
+Open-source contributions Openvino Notebooks: I created an example for machine translation using Intel&amp;rsquo;s OpenVino inference framework.
+Solang compiler: I implemented common subexpression elimination, unused variable elimination and undefined variable detection during the Hyplerledger mentorship in 2021.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://lucasste.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lucasste.github.io/projects/</guid>
+      <description>Projects HTTP1.0 Server Nov. 2020 During the computer networks class at university, I created with friends a basic HTTP1.0 server that can handle html pages and files. The code is on Github.
+LangInterpreter Jun. 2020 During a compilers course at my undergraduate studies, I developed with a friend an interpreter for a programming laguage with Portuguese constructs. The code is available on Gitub.
+iOS/Android Monitor Jun. 2020 During the Operating Systems course, I developed in a group project a system monitor for Android and another one for iOS.</description>
+    </item>
+    
+    <item>
+      <title>Reads</title>
+      <link>https://lucasste.github.io/reading/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lucasste.github.io/reading/</guid>
+      <description>Reading Reading is one of my favourite activities. I usually keep up to date with the world by reading Wired UK and The Economist. Regarding books, I have a preference for those who explain the world around me and the latest developments in history.
+Books Each of these books has had an impact in how I understand what happens in society and in the technology world.</description>
+    </item>
+    
+    <item>
+      <title>Research/Publications</title>
+      <link>https://lucasste.github.io/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lucasste.github.io/publications/</guid>
+      <description>Research/Publications L. Steuernagel, M. R. O. A. Maximo. Trajectory prediction for SSL robots using seq2seq neural networks. Accepted at the 25th RoboCup International Symposium 2022, but pending publication.
+L. Steuernagel, M. R. O. A. Maximo, L. A. Pereira and C. A. A. Sanches, &amp;ldquo;Convolutional Neural Network with Inception-like Module for Ball and Goalpost Detection in a Small Humanoid Soccer Robot,&amp;rdquo; 2020 Latin American Robotics Symposium (LARS), 2020 Brazilian Symposium on Robotics (SBR) and 2020 Workshop on Robotics in Education (WRE), 2020, pp.</description>
     </item>
     
   </channel>
