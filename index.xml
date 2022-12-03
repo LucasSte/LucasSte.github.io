@@ -24,8 +24,8 @@ Social Facebook Twitter Google+ </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://lucasste.github.io/experience/</guid>
-      <description>Experience Software Engineering Solana Labs February 2022 - Present I&amp;rsquo;ve been working full-time for Solana Labs since February as a compiler engineer. I am improving the Solang compiler and ensuring Solidity is fully compatible with the Solana blockchain.
-Google August 2021 - November 2021 Google has an internal programming language with limited features and aimed at security. My internship project there was coding an autocomplete system for such a language that ran in Google&amp;rsquo;s own IDE.</description>
+      <description>Experience Software Engineering Solana Labs February 2022 - Present I&amp;rsquo;ve been working full-time for Solana Labs since February as a compiler engineer. I am improving the Solang compiler and ensuring Solidity is fully compatible with the Solana blockchain. I provided compatibility for inline assembly blocks, created an efficient code generation for encoding and decoding data with Borsh and updated the function dispatch code.
+Google August 2021 - November 2021 Google has an internal programming language with limited features and aimed at security.</description>
     </item>
     
     <item>
