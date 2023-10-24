@@ -25,7 +25,7 @@ Social Facebook Twitter Google+ </description>
       
       <guid>https://lucasste.github.io/experience/</guid>
       <description>Experience Engineering Solana Labs February 2022 - Present At Solana, I work on the Solang compiler. So far, I have designed new syntax to embrace Solana&amp;rsquo;s runtime model, implemented control flow graph optmizations (redundancy elimination and dead code elimination), and performed data flow analysis in the intermediate code to collect information about memory access and mutability.
-I&amp;rsquo;ve also written the parser, the semantic analysis and code generation for iniline assembly, and designed the code generation for Borsh encoding and dynamic function dispatch.</description>
+I&amp;rsquo;ve created AST (Abstract Syntax Tree) traversals for code verification and leveraged LLD to link system calls in C to compiler generated code.</description>
     </item>
     
     <item>
@@ -45,7 +45,7 @@ Solang compiler: I implemented common subexpression elimination, unused variable
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://lucasste.github.io/projects/</guid>
-      <description>Projects HTTP1.0 Server Nov. 2020 During the computer networks class at university, I created with friends a basic HTTP1.0 server that can handle html pages and files. The code is on Github.
+      <description>Projects Havina Oct. 2023 This is a Python library based on the paper &amp;ldquo;Language Models are Open Knowledge Graphs.&amp;rdquo; It generates a graph given an input sentence and the language model attention matrices as a way to evaluate text understanding. The code is on Github.
 iOS/Android Monitor Jun. 2020 During the Operating Systems course, I developed in a group project a system monitor for Android and another one for iOS. The goal was to have something similar to htop on Linux, but the project was limited by the availablity of system APIs for those OSs.</description>
     </item>
     
