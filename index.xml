@@ -24,7 +24,8 @@ Social Facebook Twitter Google+ </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://lucasste.github.io/experience/</guid>
-      <description>Experience Engineering Solana Labs February 2022 - Present At Solana, I work on the Solang compiler. So far, I have designed new Solidity syntax to embrace Solana&amp;rsquo;s runtime model, implemented control flow graph optmizations (redundancy elimination and dead code elimination), and performed data flow analysis in the intermediate code to collect information about memory access and mutability. I&amp;rsquo;ve also written the parser, the semantic analysis and code generation for iniline assembly, and designed the code generation for Borsh encoding and dynamic function dispatch.</description>
+      <description>Experience Engineering Anza Technology Inc. January 2024 - Present I work on the Solana Virtual Machine project, which offers to external users the possibility to run transactions outside the Solana blokchain. I am also developing the LLVM backend for the Solana Bytecode Format and the Rust compiler toolchain.
+Solana Labs February 2022 - January 2024 At Solana, I work on the Solang compiler. So far, I have designed new Solidity syntax to embrace Solana&amp;rsquo;s runtime model, implemented control flow graph optmizations (redundancy elimination and dead code elimination), and performed data flow analysis in the intermediate code to collect information about memory access and mutability.</description>
     </item>
     
     <item>
