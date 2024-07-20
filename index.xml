@@ -24,8 +24,8 @@ Social Facebook Twitter Google+ </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://lucasste.github.io/experience/</guid>
-      <description>Experience Engineering Anza Technology Inc. January 2024 - Present I work on the Solana Virtual Machine project, which offers to external users the possibility to run transactions outside the Solana blokchain. I am also developing the LLVM backend for the Solana Bytecode Format and the Rust compiler toolchain.
-Solana Labs February 2022 - January 2024 At Solana, I work on the Solang compiler. So far, I have designed new Solidity syntax to embrace Solana&amp;rsquo;s runtime model, implemented control flow graph optmizations (redundancy elimination and dead code elimination), and performed data flow analysis in the intermediate code to collect information about memory access and mutability.</description>
+      <description>Experience Engineering Anza Technology Inc. January 2024 - Present I am focusing on the Solana runtime and the compiler toolchain. I am working on the LLVM backend for the Solana bytecode format, improving performance of the generated code, and fuzzing the runtime pipeline. I am also taking care of the Rust compiler toolchain to build Solana programs.
+Solana Labs February 2022 - January 2024 At Solana, I work on the Solang compiler.</description>
     </item>
     
     <item>
