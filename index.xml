@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lucas Steuernagel</title>
+    <link>https://lucasste.github.io/</link>
+    <description>Recent content on Lucas Steuernagel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://lucasste.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://lucasste.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lucasste.github.io/contact/</guid>
+      <description> Email: foo@xyz.com Phone: +91-123123 Mailing Address 221B, Baker Street
+London
+United Kingdom
+Social Facebook Twitter Google+ </description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://lucasste.github.io/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lucasste.github.io/experience/</guid>
+      <description>Experience Engineering Anza Technology Inc. January 2024 - Present I am focusing on the Solana runtime and the compiler toolchain. I am working on the LLVM backend for the Solana bytecode format, improving performance of the generated code, and fuzzing the runtime pipeline. I am also taking care of the Rust compiler toolchain to build Solana programs.
+Solana Labs February 2022 - January 2024 At Solana, I work on the Solang compiler.</description>
+    </item>
+    
+    <item>
+      <title>Misc</title>
+      <link>https://lucasste.github.io/misc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lucasste.github.io/misc/</guid>
+      <description>Other interesting stuff I&amp;rsquo;ve done Teaching While at my university robotics group, I taught machine learning and computer vision. I gave new members an introductory class in Git and wrote a guide to use the C++ STL methods in the group&amp;rsquo;s repository.
+Open-source contributions Openvino Notebooks: I created an example for machine translation using Intel&amp;rsquo;s OpenVino inference framework.
+Solang compiler: I implemented common subexpression elimination, unused variable elimination and undefined variable detection during the Hyplerledger mentorship in 2021.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://lucasste.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lucasste.github.io/projects/</guid>
+      <description>Projects Havina Oct. 2023 This is a Python library based on the paper &amp;ldquo;Language Models are Open Knowledge Graphs.&amp;rdquo; It generates a graph given an input sentence and the language model attention matrices as a way to evaluate text understanding. The code is on Github.
+iOS/Android Monitor Jun. 2020 During the Operating Systems course, I developed in a group project a system monitor for Android and another one for iOS. The goal was to have something similar to htop on Linux, but the project was limited by the availablity of system APIs for those OSs.</description>
+    </item>
+    
+    <item>
+      <title>Research/Publications</title>
+      <link>https://lucasste.github.io/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lucasste.github.io/publications/</guid>
+      <description>Research/Publications Trajectory prediction for robots 2021-2022 I researched how to improve the trajectory prediction algorithm for RoboCup&amp;rsquo;s Small Size League (SSL) Robots, under the supervision of professor Marcos Maximo. I introduced an encode-decoder sequence-to-sequence neural network with attention to forecast the trajectory. Its performance supassed that of a Kalman predictor.
+Steuernagel, L., Maximo, M.R.O.A. (2023). Trajectory Prediction for SSL Robots Using Seq2seq Neural Networks. In: Eguchi, A., Lau, N., Paetzel-Prüsmann, M.</description>
+    </item>
+    
+  </channel>
+</rss>
